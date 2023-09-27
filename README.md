@@ -8,3 +8,5 @@ methods from .lib/post.tsx.
   In order to make this a full stack application with data base queries I want to move
 the stored blog posts to a remote db and implement the api requests instread of the file
 system methods that are currently employed.
+
+-Implement a search function that searches throught the blog articles
