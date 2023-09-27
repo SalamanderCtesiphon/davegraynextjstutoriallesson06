@@ -1,5 +1,5 @@
 ---
-title: 'The significance of learning full stack web developement'
+title: 'The significance of learning full stack web development'
 date: '2023-09-25'
 ---
 
