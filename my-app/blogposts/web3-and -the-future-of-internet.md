@@ -1,5 +1,5 @@
 ---
-title: 'Web3's impact on the future of web development'
+title: "Web3's impact on the future of web development"
 date: '2023-09-26'
 ---
 
