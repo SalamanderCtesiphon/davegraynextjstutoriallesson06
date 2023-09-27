@@ -21,7 +21,7 @@ export default function RootLayout({
   
   return (
     <html lang="en">
-      <body className='dark:bg-slate-800'>
+      <body className='dark:bg-slate-800 flex flex-col h-screen justify-between'>
         <Navbar />
         <MyProfilePic />
         {children}
