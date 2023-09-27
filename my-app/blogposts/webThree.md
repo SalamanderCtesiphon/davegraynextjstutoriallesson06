@@ -3,8 +3,6 @@ title: "Web3's impact on the future of web development"
 date: '2023-09-26'
 ---
 
-Title: Web3's Impact on the Future of Web Development
-
 In the fast-paced world of technology, the landscape of web development is constantly evolving. The advent of Web3, the decentralized web, has sparked a revolution that is set to transform the way we design, build, and interact with websites and applications. Let's dive into how Web3 is shaping the future of web development.
 
 ### **1. Decentralization and Ownership**
