@@ -9,7 +9,7 @@ export default function Navbar() {
                     <Link href="/" className="text-white/90 no-underline hover:text-white">Shannon Brookshire</Link>
                 </h1>
                 <div className="flex flex-row justify-center sm:justify-evenly align-middle gap-4 text-white text-4xl lg:text-5xl">
-                    <Link className="text-white/90 hover:text-white" href="https://web-dev-portfolio-6d144.web.app/">
+                    <Link className="text-white/90 hover:text-white" href="https://shimmering-axolotl-f2094f.netlify.app/">
                         <FaLaptop />
                     </Link>
                     <Link className="text-white/90 hover:text-white" href="https://github.com/SalamanderCtesiphon">
